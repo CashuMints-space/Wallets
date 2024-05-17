@@ -1,0 +1,2 @@
+# Wallets
+Cashu wallets index
